@@ -1,0 +1,708 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes
+compile options:
+4 items
+0 -> -feature
+1 -> -language:existentials
+2 -> -deprecation
+3 -> -language:postfixOps
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+24 items
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab10\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab10\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab11\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab11\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab12\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab12\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab13\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab13\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab3\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab3\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab4\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab4\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab5\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab5\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab6\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab6\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab7\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab7\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab8\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab8\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab9\Ex1$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab9\Ex1.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Test$.class
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Test.class
+binary dependencies:
+36 items
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+24 items
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Lab10.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Lab10.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Lab11.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Lab11.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Lab12.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Lab12.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Lab13.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Lab13.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Lab3.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Lab3.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Lab4.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Lab4.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Lab5.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Lab5.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Lab6.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Lab6.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Lab7.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Lab7.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Lab8.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Lab8.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Lab9.Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Lab9.Ex1$
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Test$
+used names:
+467 items
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Lab10
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Lab11
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Lab12
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Lab13
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Lab3
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Lab4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Lab5
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Lab6
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Lab7
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Lab8
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Ex1
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Lab9
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> <init>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> <refinement>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> <repeated>
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Any
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> AnyRef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Array
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Constant
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Double
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Element
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> ElementCollection
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Importance
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Int
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Name
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Nothing
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> OneTimeProbQuerySampler
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Predef
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> ProbEvidenceQuery
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> String
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> T
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Unit
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> _$4
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> algorithm
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> apply
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> com
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> cra
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> default
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> figaro
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> language
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> println
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> probability
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> sampling
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> scala
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> start
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> test
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> universe
+product stamps:
+24 items
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab10\Ex1$.class -> lastModified(1601512038936)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab10\Ex1.class -> lastModified(1601512038935)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab11\Ex1$.class -> lastModified(1601512038939)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab11\Ex1.class -> lastModified(1601512038938)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab12\Ex1$.class -> lastModified(1601512038942)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab12\Ex1.class -> lastModified(1601512038940)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab13\Ex1$.class -> lastModified(1601512038944)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab13\Ex1.class -> lastModified(1601512038943)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab3\Ex1$.class -> lastModified(1601512038946)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab3\Ex1.class -> lastModified(1601512038945)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab4\Ex1$.class -> lastModified(1601512038949)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab4\Ex1.class -> lastModified(1601512038948)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab5\Ex1$.class -> lastModified(1601512038951)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab5\Ex1.class -> lastModified(1601512038950)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab6\Ex1$.class -> lastModified(1601512038953)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab6\Ex1.class -> lastModified(1601512038952)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab7\Ex1$.class -> lastModified(1601512038955)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab7\Ex1.class -> lastModified(1601512038954)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab8\Ex1$.class -> lastModified(1601512038958)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab8\Ex1.class -> lastModified(1601512038957)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab9\Ex1$.class -> lastModified(1601512038960)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Lab9\Ex1.class -> lastModified(1601512038959)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Test$.class -> lastModified(1601512038961)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes\Test.class -> lastModified(1601512038960)
+source stamps:
+12 items
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> hash(72091289975dc98df3077cc0caed8d7fd9765d24)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> hash(fb5eedd84b41d5c58958d11c9340eed9cfada594)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> hash(98da9e33ea1207099be1b53ae05e258bb0c1e2e5)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> hash(17a2502912860f0539fd4e55e97fb1f4f3480b5b)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> hash(b22e8adc7e45f19fbb014d21c32fa0db34bb7a26)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> hash(f08b75a6929cf713e03d51e28ba56a03cf158b08)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> hash(4cddb3e2cedccc44a7a310b49d1db478c1c09d1e)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> hash(e9108d33241330a36972438020cc644b1142e5d6)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> hash(593404ae9932bc5bb3db003956d8492184180316)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> hash(8b223a9c450a4a112d9fdd4445a5d83948871726)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> hash(76f0d53a83bc998bb60d8ed3c4619271a88c62a3)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> hash(59ca4f73f6830f6eb8a3564ede941a26ff3b0507)
+binary stamps:
+3 items
+C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar -> lastModified(1597359775333)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar -> lastModified(1601510693614)
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar -> lastModified(1601510693623)
+class names:
+3 items
+C:\Program Files\Android\Jdk\microsoft_dist_openjdk_1.8.0.25\jre\lib\rt.jar -> java.lang.Object
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar -> com.cra.figaro.language.Universe
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar -> scala.Predef$
+internal apis:
+12 items
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwFq3WdwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0V20ZnQABm5vdGlmeXNxAH4ADC3B/hF0AAR3YWl0c3EAfgAMTDeBJ3QADSRhc0luc3RhbmNlT2ZzcQB+AAzRup9adAAGZXF1YWxzc3EAfgAMtKd/nHQADGFzSW5zdGFuY2VPZnNxAH4ADM2BHs90AAxzeW5jaHJvbml6ZWRzcQB+AAx5X304dAANJGlzSW5zdGFuY2VPZnNxAH4ADDA65f10AARtYWluc3EAfgAM9xzcynQACW5vdGlmeUFsbHNxAH4ADNZTSOh0AAxpc0luc3RhbmNlT2ZzcQB+AAxih3UAdAACPT1zcQB+AAzrKl3WdAAFY2xvbmVzcQB+AAwSVMzpdAAIdG9TdHJpbmdzcQB+AAwKTSkldAADRXgxc3EAfgAMI/Am0XQAAiE9c3EAfgAMvK5mn3QACGdldENsYXNzc3EAfgAMykN/SXQAAm5lc3EAfgAM6TO0+HQAAmVxc3EAfgAMtS8Y4nQAAiMjc3EAfgAM+agJvHQACGZpbmFsaXplc3EAfgAMamitRXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACUxhYjEwLkV4MXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAVMYWIxMHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOGOV691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTQzpcVXNlcnNcQ3Jpc3RpYW5TaW1pb25lc2N1XERlc2t0b3BcVGVhY2hpbmdcUE1QLVRlbXBsYXRlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRyCRKJl13JjfMHfMDK7Y1/2XZdJA==
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwPxTlAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0V20ZnQABm5vdGlmeXNxAH4ADC3B/hF0AAR3YWl0c3EAfgAMTDeBJ3QADSRhc0luc3RhbmNlT2ZzcQB+AAzRup9adAAGZXF1YWxzc3EAfgAMtKd/nHQADGFzSW5zdGFuY2VPZnNxAH4ADM2BHs90AAxzeW5jaHJvbml6ZWRzcQB+AAx5X304dAANJGlzSW5zdGFuY2VPZnNxAH4ADDA65f10AARtYWluc3EAfgAM9xzcynQACW5vdGlmeUFsbHNxAH4ADNZTSOh0AAxpc0luc3RhbmNlT2ZzcQB+AAxih3UAdAACPT1zcQB+AAzrKl3WdAAFY2xvbmVzcQB+AAwSVMzpdAAIdG9TdHJpbmdzcQB+AAwUveG4dAADRXgxc3EAfgAMI/Am0XQAAiE9c3EAfgAMvK5mn3QACGdldENsYXNzc3EAfgAMykN/SXQAAm5lc3EAfgAM6TO0+HQAAmVxc3EAfgAMtS8Y4nQAAiMjc3EAfgAM+agJvHQACGZpbmFsaXplc3EAfgAMamitRXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACUxhYjExLkV4MXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAVMYWIxMXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOGOV691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTQzpcVXNlcnNcQ3Jpc3RpYW5TaW1pb25lc2N1XERlc2t0b3BcVGVhY2hpbmdcUE1QLVRlbXBsYXRlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT7Xu3YS0HVxYlY0RyTQO7Zz62llA==
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6ABxmQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0V20ZnQABm5vdGlmeXNxAH4ADC3B/hF0AAR3YWl0c3EAfgAMTDeBJ3QADSRhc0luc3RhbmNlT2ZzcQB+AAzRup9adAAGZXF1YWxzc3EAfgAMtKd/nHQADGFzSW5zdGFuY2VPZnNxAH4ADM2BHs90AAxzeW5jaHJvbml6ZWRzcQB+AAx5X304dAANJGlzSW5zdGFuY2VPZnNxAH4ADDA65f10AARtYWluc3EAfgAM9xzcynQACW5vdGlmeUFsbHNxAH4ADNZTSOh0AAxpc0luc3RhbmNlT2ZzcQB+AAxih3UAdAACPT1zcQB+AAzrKl3WdAAFY2xvbmVzcQB+AAwSVMzpdAAIdG9TdHJpbmdzcQB+AAwpsbicdAADRXgxc3EAfgAMI/Am0XQAAiE9c3EAfgAMvK5mn3QACGdldENsYXNzc3EAfgAMykN/SXQAAm5lc3EAfgAM6TO0+HQAAmVxc3EAfgAMtS8Y4nQAAiMjc3EAfgAM+agJvHQACGZpbmFsaXplc3EAfgAMamitRXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACUxhYjEyLkV4MXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAVMYWIxMnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOGOV691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTQzpcVXNlcnNcQ3Jpc3RpYW5TaW1pb25lc2N1XERlc2t0b3BcVGVhY2hpbmdcUE1QLVRlbXBsYXRlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSY2p4z6hIHCZvhtTrgXiWLsMHi5Q==
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTlzAfgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0V20ZnQABm5vdGlmeXNxAH4ADC3B/hF0AAR3YWl0c3EAfgAMTDeBJ3QADSRhc0luc3RhbmNlT2ZzcQB+AAzRup9adAAGZXF1YWxzc3EAfgAMtKd/nHQADGFzSW5zdGFuY2VPZnNxAH4ADM2BHs90AAxzeW5jaHJvbml6ZWRzcQB+AAx5X304dAANJGlzSW5zdGFuY2VPZnNxAH4ADDA65f10AARtYWluc3EAfgAM9xzcynQACW5vdGlmeUFsbHNxAH4ADNZTSOh0AAxpc0luc3RhbmNlT2ZzcQB+AAxih3UAdAACPT1zcQB+AAzrKl3WdAAFY2xvbmVzcQB+AAwSVMzpdAAIdG9TdHJpbmdzcQB+AAwYSsR1dAADRXgxc3EAfgAMI/Am0XQAAiE9c3EAfgAMvK5mn3QACGdldENsYXNzc3EAfgAMykN/SXQAAm5lc3EAfgAM6TO0+HQAAmVxc3EAfgAMtS8Y4nQAAiMjc3EAfgAM+agJvHQACGZpbmFsaXplc3EAfgAMamitRXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACUxhYjEzLkV4MXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAVMYWIxM3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOGOV691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTQzpcVXNlcnNcQ3Jpc3RpYW5TaW1pb25lc2N1XERlc2t0b3BcVGVhY2hpbmdcUE1QLVRlbXBsYXRlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQXolApEoYPBTn9TlXpf7H080gLWw==
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsSjtygAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC1bhInQABm5vdGlmeXNxAH4ADBk9bjV0AAR3YWl0c3EAfgAMXjn2/XQADSRhc0luc3RhbmNlT2ZzcQB+AAxKucOOdAAGZXF1YWxzc3EAfgAM1sPOFnQADGFzSW5zdGFuY2VPZnNxAH4ADJcmG3N0AAxzeW5jaHJvbml6ZWRzcQB+AAyYGSAvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDadVzZ0AARtYWluc3EAfgAMKZYgEHQACW5vdGlmeUFsbHNxAH4ADIG2C5p0AAxpc0luc3RhbmNlT2ZzcQB+AAxPvSmedAACPT1zcQB+AAxXEdnEdAAFY2xvbmVzcQB+AAzojuYAdAAIdG9TdHJpbmdzcQB+AAy1h4CTdAADRXgxc3EAfgAMVbl/BXQAAiE9c3EAfgAMaQOLPHQACGdldENsYXNzc3EAfgAMMekUG3QAAm5lc3EAfgAMtCt8VnQAAmVxc3EAfgAMPRy5VHQAAiMjc3EAfgAML3VKKHQACGZpbmFsaXplc3EAfgAMtqfexXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACExhYjMuRXgxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXThjlevdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUsi6K3H5F8Z+7AU0hwy+g2zS7eiY=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwP9lyQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC1bhInQABm5vdGlmeXNxAH4ADBk9bjV0AAR3YWl0c3EAfgAMXjn2/XQADSRhc0luc3RhbmNlT2ZzcQB+AAxKucOOdAAGZXF1YWxzc3EAfgAM1sPOFnQADGFzSW5zdGFuY2VPZnNxAH4ADJcmG3N0AAxzeW5jaHJvbml6ZWRzcQB+AAyYGSAvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDadVzZ0AARtYWluc3EAfgAMKZYgEHQACW5vdGlmeUFsbHNxAH4ADIG2C5p0AAxpc0luc3RhbmNlT2ZzcQB+AAxPvSmedAACPT1zcQB+AAxXEdnEdAAFY2xvbmVzcQB+AAzojuYAdAAIdG9TdHJpbmdzcQB+AAwYjxtQdAADRXgxc3EAfgAMVbl/BXQAAiE9c3EAfgAMaQOLPHQACGdldENsYXNzc3EAfgAMMekUG3QAAm5lc3EAfgAMtCt8VnQAAmVxc3EAfgAMPRy5VHQAAiMjc3EAfgAML3VKKHQACGZpbmFsaXplc3EAfgAMtqfexXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACExhYjQuRXgxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXThjlevdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU8It1ppKc9xPgPVHii6VqA88Viwg=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw4Hk9RgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC1bhInQABm5vdGlmeXNxAH4ADBk9bjV0AAR3YWl0c3EAfgAMXjn2/XQADSRhc0luc3RhbmNlT2ZzcQB+AAxKucOOdAAGZXF1YWxzc3EAfgAM1sPOFnQADGFzSW5zdGFuY2VPZnNxAH4ADJcmG3N0AAxzeW5jaHJvbml6ZWRzcQB+AAyYGSAvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDadVzZ0AARtYWluc3EAfgAMKZYgEHQACW5vdGlmeUFsbHNxAH4ADIG2C5p0AAxpc0luc3RhbmNlT2ZzcQB+AAxPvSmedAACPT1zcQB+AAxXEdnEdAAFY2xvbmVzcQB+AAzojuYAdAAIdG9TdHJpbmdzcQB+AAyaRWiZdAADRXgxc3EAfgAMVbl/BXQAAiE9c3EAfgAMaQOLPHQACGdldENsYXNzc3EAfgAMMekUG3QAAm5lc3EAfgAMtCt8VnQAAmVxc3EAfgAMPRy5VHQAAiMjc3EAfgAML3VKKHQACGZpbmFsaXplc3EAfgAMtqfexXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACExhYjUuRXgxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXThjlevdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUTN2z4s7czESnoxC0nR20eMHAnR4=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwpSBojgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC1bhInQABm5vdGlmeXNxAH4ADBk9bjV0AAR3YWl0c3EAfgAMXjn2/XQADSRhc0luc3RhbmNlT2ZzcQB+AAxKucOOdAAGZXF1YWxzc3EAfgAM1sPOFnQADGFzSW5zdGFuY2VPZnNxAH4ADJcmG3N0AAxzeW5jaHJvbml6ZWRzcQB+AAyYGSAvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDadVzZ0AARtYWluc3EAfgAMKZYgEHQACW5vdGlmeUFsbHNxAH4ADIG2C5p0AAxpc0luc3RhbmNlT2ZzcQB+AAxPvSmedAACPT1zcQB+AAxXEdnEdAAFY2xvbmVzcQB+AAzojuYAdAAIdG9TdHJpbmdzcQB+AAxAuroXdAADRXgxc3EAfgAMVbl/BXQAAiE9c3EAfgAMaQOLPHQACGdldENsYXNzc3EAfgAMMekUG3QAAm5lc3EAfgAMtCt8VnQAAmVxc3EAfgAMPRy5VHQAAiMjc3EAfgAML3VKKHQACGZpbmFsaXplc3EAfgAMtqfexXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACExhYjYuRXgxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjZzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXThjlevdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU6RCNMyQTMKNpckOAIMxkSxFC5dY=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPM1drQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC1bhInQABm5vdGlmeXNxAH4ADBk9bjV0AAR3YWl0c3EAfgAMXjn2/XQADSRhc0luc3RhbmNlT2ZzcQB+AAxKucOOdAAGZXF1YWxzc3EAfgAM1sPOFnQADGFzSW5zdGFuY2VPZnNxAH4ADJcmG3N0AAxzeW5jaHJvbml6ZWRzcQB+AAyYGSAvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDadVzZ0AARtYWluc3EAfgAMKZYgEHQACW5vdGlmeUFsbHNxAH4ADIG2C5p0AAxpc0luc3RhbmNlT2ZzcQB+AAxPvSmedAACPT1zcQB+AAxXEdnEdAAFY2xvbmVzcQB+AAzojuYAdAAIdG9TdHJpbmdzcQB+AAyCMyrmdAADRXgxc3EAfgAMVbl/BXQAAiE9c3EAfgAMaQOLPHQACGdldENsYXNzc3EAfgAMMekUG3QAAm5lc3EAfgAMtCt8VnQAAmVxc3EAfgAMPRy5VHQAAiMjc3EAfgAML3VKKHQACGZpbmFsaXplc3EAfgAMtqfexXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACExhYjcuRXgxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjdzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXThjlevdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUWTQErpkyvFuz2wA5VthJIYQYAxY=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuJCHzQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC1bhInQABm5vdGlmeXNxAH4ADBk9bjV0AAR3YWl0c3EAfgAMXjn2/XQADSRhc0luc3RhbmNlT2ZzcQB+AAxKucOOdAAGZXF1YWxzc3EAfgAM1sPOFnQADGFzSW5zdGFuY2VPZnNxAH4ADJcmG3N0AAxzeW5jaHJvbml6ZWRzcQB+AAyYGSAvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDadVzZ0AARtYWluc3EAfgAMKZYgEHQACW5vdGlmeUFsbHNxAH4ADIG2C5p0AAxpc0luc3RhbmNlT2ZzcQB+AAxPvSmedAACPT1zcQB+AAxXEdnEdAAFY2xvbmVzcQB+AAzojuYAdAAIdG9TdHJpbmdzcQB+AAzNJQkqdAADRXgxc3EAfgAMVbl/BXQAAiE9c3EAfgAMaQOLPHQACGdldENsYXNzc3EAfgAMMekUG3QAAm5lc3EAfgAMtCt8VnQAAmVxc3EAfgAMPRy5VHQAAiMjc3EAfgAML3VKKHQACGZpbmFsaXplc3EAfgAMtqfexXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACExhYjguRXgxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjhzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXThjlevdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiyI6nEUKShEtn91ERaXYOUiHFyY=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwiZQghQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC1bhInQABm5vdGlmeXNxAH4ADBk9bjV0AAR3YWl0c3EAfgAMXjn2/XQADSRhc0luc3RhbmNlT2ZzcQB+AAxKucOOdAAGZXF1YWxzc3EAfgAM1sPOFnQADGFzSW5zdGFuY2VPZnNxAH4ADJcmG3N0AAxzeW5jaHJvbml6ZWRzcQB+AAyYGSAvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDadVzZ0AARtYWluc3EAfgAMKZYgEHQACW5vdGlmeUFsbHNxAH4ADIG2C5p0AAxpc0luc3RhbmNlT2ZzcQB+AAxPvSmedAACPT1zcQB+AAxXEdnEdAAFY2xvbmVzcQB+AAzojuYAdAAIdG9TdHJpbmdzcQB+AAzFGIuodAADRXgxc3EAfgAMVbl/BXQAAiE9c3EAfgAMaQOLPHQACGdldENsYXNzc3EAfgAMMekUG3QAAm5lc3EAfgAMtCt8VnQAAmVxc3EAfgAMPRy5VHQAAiMjc3EAfgAML3VKKHQACGZpbmFsaXplc3EAfgAMtqfexXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACExhYjkuRXgxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXThjlevdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdvDVOoO8mYu2DY7TxGGScaiMYqM=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwFAcI0wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwBQv4oXQABm5vdGlmeXNxAH4ADCrTa/p0AAR3YWl0c3EAfgAM5YfXi3QADSRhc0luc3RhbmNlT2ZzcQB+AAxX09HidAAGZXF1YWxzc3EAfgAMPGpqXXQADGFzSW5zdGFuY2VPZnNxAH4ADL22urZ0AAxzeW5jaHJvbml6ZWRzcQB+AAwdWHY2dAANJGlzSW5zdGFuY2VPZnNxAH4ADGHf+tp0AARtYWluc3EAfgAM+I+ZwnQACW5vdGlmeUFsbHNxAH4ADLYBrmp0AAxpc0luc3RhbmNlT2ZzcQB+AAy88fmydAACPT1zcQB+AAwTTM1WdAAFY2xvbmVzcQB+AAzzrpSVdAAEVGVzdHNxAH4ADMqi6sl0AAh0b1N0cmluZ3NxAH4ADJxxosV0AAIhPXNxAH4ADC+Cubl0AAhnZXRDbGFzc3NxAH4ADBq4i650AAJuZXNxAH4ADMK509N0AAJlcXNxAH4ADFyfxMF0AAIjI3NxAH4ADBzL/Vl0AAhmaW5hbGl6ZXNxAH4ADLj87IN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AJ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBleHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBsWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBcc3EAfgBrdAAFQXJyYXlxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBrdAAGU3RyaW5nc3EAfgBvc3EAfgBydXEAfgB1AAAAA3NxAH4Ad3QABGphdmFzcQB+AHd0AARsYW5ncQB+AHxzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgCQAAAAAnNxAH4Aa3QABk9iamVjdHEAfgCUc3EAfgBrdAADQW55cQB+AHF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOGOV691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTQzpcVXNlcnNcQ3Jpc3RpYW5TaW1pb25lc2N1XERlc2t0b3BcVGVhY2hpbmdcUE1QLVRlbXBsYXRlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRZyk9z9oMPbrijVk7elBom/zsFBw==
+external apis:
+0 items
+source infos:
+12 items
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab10\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab11\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab12\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab13\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab3\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab4\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab5\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab6\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab7\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab8\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Lab9\Ex1.scala -> 
+AAAAAAAAAAA=
+C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\src\main\scala\Test.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOF525F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkM6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVxGaWdhcm9Xb3JrXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOF66sl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOGOV691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==

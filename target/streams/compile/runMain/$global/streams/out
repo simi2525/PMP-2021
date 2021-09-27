@@ -1,0 +1,38 @@
+[0m[[0minfo[0m] [0mRunning Lab5.Ex1 [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\target\scala-2.12\classes[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scala-lang\scala-reflect\scala-reflect-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\asm\asm\asm-3.3.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.apache.commons\commons-math3\commons-math3-3.3.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\net.sf.jsci\jsci\jsci-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\net.sf.jsci\lpsolve\lpsolve-2003-11-03.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.axsl.org.w3c.dom.mathml\mathml-dom-java\mathml-dom-java-2.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\xerces\xercesImpl\xercesImpl-2.8.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\xml-apis\xml-apis\xml-apis-1.3.03.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.typesafe.akka\akka-actor_2.12\akka-actor_2.12-2.4.18.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\bundles\com.typesafe\config\config-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\bundles\org.scala-lang.modules\scala-java8-compat_2.12\scala-java8-compat_2.12-0.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scalanlp\breeze_2.12\breeze_2.12-0.13.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.scalanlp\breeze-macros_2.12\breeze-macros_2.12-0.13.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.github.fommil.netlib\core\core-1.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\net.sourceforge.f2j\arpack_combined_all\arpack_combined_all-0.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\net.sf.opencsv\opencsv\opencsv-2.3.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\com.github.rwl\jtransforms\jtransforms-2.4.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\junit\junit\junit-4.8.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.spire-math\spire_2.12\spire_2.12-0.13.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.spire-math\spire-macros_2.12\spire-macros_2.12-0.13.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.typelevel\machinist_2.12\machinist_2.12-0.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\bundles\com.chuusai\shapeless_2.12\shapeless_2.12-2.3.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.typelevel\macro-compat_2.12\macro-compat_2.12-1.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.slf4j\slf4j-api\slf4j-api-1.7.5.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\io.argonaut\argonaut_2.12\argonaut_2.12-6.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\jars\org.prefuse\prefuse\prefuse-beta-20071021.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\CristianSimionescu\Desktop\Teaching\PMP-Template\lib_managed\bundles\org.scala-lang.modules\scala-swing_2.12\scala-swing_2.12-2.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-1 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
