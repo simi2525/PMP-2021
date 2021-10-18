@@ -8,3 +8,4 @@ inputs
 output
 export
 *.xml
+.bsp
