@@ -1,5 +1,10 @@
 *.class
 *.log
-null/
-project/
-target/
+null
+project/target
+target
+out
+inputs
+output
+export
+*.xml

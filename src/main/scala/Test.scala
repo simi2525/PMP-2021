@@ -10,17 +10,29 @@
  * 
  * See http://www.github.com/p2t2/figaro for a copy of the software license.
  */
-
+import com.cra.figaro.algorithm.factored.VariableElimination
 import com.cra.figaro.language._
+import com.cra.figaro.library.compound.CPD
 import com.cra.figaro.algorithm.sampling._
 
 object Test {
 	def main(args: Array[String]) {
-		val test = Constant("Test")
-
-		val algorithm = Importance(1000, test)
+		// Model
+		val coin1 = Flip(0.25)
+		val coin2 = Flip(0.7)
+		val result = CPD(coin1,coin2,
+			(true, true) -> Constant("HH"),
+			(true, false) -> Constant("HT"),
+			(false, true) -> Constant("TH"),
+			(false, false) -> Constant("TT")
+		)
+		
+		result.observe("TT")
+		// Algo Inferenta
+		val algorithm = Importance(1000, coin2)
 		algorithm.start()
 		
-		println(algorithm.probability(test, "Test"))
+		// Interogam modelul
+		println(algorithm.probability(coin1, true))
 	}
 }
