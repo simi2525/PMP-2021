@@ -8,7 +8,6 @@ import com.cra.figaro.algorithm.factored._
 object HelloWorldTest{
     def main(args: Array[String]){
         val helloWorldElement = Select(0.8->"Hello world!",0.2->"Goodbye world!")
-
         val sampleHelloWorld = VariableElimination(helloWorldElement)
 
         sampleHelloWorld.start()

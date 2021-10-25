@@ -11,8 +11,7 @@ object HelloWorld {
     Select(0.6 -> "Hello, world!", 0.4 -> "Howdy, universe!"),
     Select(0.2 -> "Hello, world!", 0.8 -> "Oh no, not again!")
   )
-
-
+  
   def main(args: Array[String]) {
     val result = VariableElimination.probability(greetingToday, "Oh no, not again!")
     println("Probability that today’s greeting is \"Oh no, not again!\": " + result)
