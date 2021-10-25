@@ -42,8 +42,7 @@ object Ex4 {
         // This element represents the gain to player 1 from the game. I have
         // made it an Element[Double] so I can query its mean.
         val player1Gain = Apply(player1Card, player2Card, player1Bet1, player2Bet, player1Bet2,
-            (card1: Int, card2: Int, bet11: Boolean,
-            bet2: Boolean, bet12: Boolean) =>
+            (card1: Int, card2: Int, bet11: Boolean, bet2: Boolean, bet12: Boolean) =>
                 if (!bet11 && !bet2) 0.0
                 else if (bet11 && !bet2) 1.0
                 else if (!bet11 && bet2 && !bet12) -1.0
