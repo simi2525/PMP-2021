@@ -4,7 +4,7 @@ import com.cra.figaro.algorithm.sampling.Importance
 import com.cra.figaro.language.{Apply, Constant, Element, Flip}
 import com.cra.figaro.library.compound.If
 
-object ex6
+object Ex6
 {
 	def tennis(probP1ServeWin: Double, probP1Winner: Double, probP1Error: Double, probP2ServeWin: Double, probP2Winner: Double, probP2Error: Double): Element[Boolean] = 
 	{
@@ -121,7 +121,7 @@ object ex6
     def main(args: Array[String])
     {
         val tennis_match = tennis(0.5, 0.5, 0.5, 0.5, 0.5, 0.5)
-        val alg = Importance(100, tennis_match)
+        val alg = Importance(200, tennis_match)
         alg.start()
         alg.stop()
         println("Expected gain:" + alg.probability(tennis_match, true))
