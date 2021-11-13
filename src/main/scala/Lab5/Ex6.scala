@@ -121,7 +121,7 @@ object Ex6
 	def main(args: Array[String])
 	{
 		val tennis_match = tennis(0.5, 0.5, 0.5, 0.5, 0.5, 0.5)
-		val alg = Importance(200, tennis_match)
+		val alg = Importance(200,tennis_match)
 		alg.start()
 		alg.stop()
 		println("Expected gain:" + alg.probability(tennis_match, true))
